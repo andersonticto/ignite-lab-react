@@ -44,6 +44,12 @@ export function Subscribe(){
                 
                 <div className="p-8 bg-gray-700 border border-gray-500 rounded">
                     <strong className="text-2xl mb-6 block">Inscreva-se gratuitamente</strong>
+                   
+                    
+<a href="http://devpay.ticto.com.br/c/4B87DCEB">teste</a>
+<br>
+<br>
+<a href="https://app.monetizze.com.br/checkout/KRM100082">monetize</a>
                     
                     <form onSubmit={handleSubscribe} className="flex flex-col gap-2 w-full">
                         <input 
